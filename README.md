@@ -1,2 +1,3 @@
 Chat with any website 
-  upload Url the you ready to go
+  its uses ChatGPT API 
+  upload Url then you ready to go
